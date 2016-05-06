@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Astro Academy Awards</title>
+    <link rel="stylesheet" href="css/astro.css">
+  </head>
+
+  <body>
+    <div id="chart">
+	    <center><h2>Astro Academy Awards</h2>
+		    <p id="descr">Astrological sign distribution by percentage</p><center>
+    </div>
+
+    <div id="legend">
+      <h3>Characteristics</h3>
+      <p id="info" style="font-style: italic">Click on a sign to learn about its personality traits</p><br>
+      <h3>Categories</h3>
+      <p id="lead">Lead Acting</p>
+      <p id="leadm">Lead Actor</p>
+      <p id="leadf">Lead Actress</p>
+      <p id="supp">Supporting Acting</p>
+      <p id="suppm">Supporting Actor</p>
+      <p id="suppf">Supporting Actress</p>
+      <p id="dir">Directing</p>
+      <p id="dirm">Male Director</p>
+      <p id="dirf">Female Director</p>
+      <p id="dirf-note" style="display: none; font-style: italic; font-size: 80%">In 2009, Kathryn Bigelow became the first and only woman<br>to have won an Academy Award in Directing.</p>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script></script>
+    <script src="js/d3.v3.min.js"></script>
+    <script src="js/radialBarChart.js"></script>
+    <script src="js/astro.js"></script>
+  </body>
+</html>

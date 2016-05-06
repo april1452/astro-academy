@@ -1,0 +1,75 @@
+body {
+  font-family: "Avenir Next", Avenir Next, sans-serif;
+  font-size: 12px;
+  padding-left: 30px;
+}
+h2 {
+  margin-bottom: 0;
+}
+#descr {
+  margin-top: 0;
+}
+#chart {
+  float: left;
+}
+#chart path {
+  fill: none;
+}
+/* layers */
+#chart .layer-0 path {
+  fill: steelblue;
+}
+#chart .layer-1 path {
+  fill: white !important;
+  opacity: 0.3;
+  stroke-width: 2px;
+  stroke: #999;
+}
+/* Outer circle, tick-circles and spokes */
+#chart circle.outer {
+  stroke: #aaa;
+  stroke-dasharray: 4, 4;  
+}
+#chart .tick-circles circle {
+  stroke: #ddd;
+  stroke-dasharray: 2, 2;  
+}
+#chart .spokes line {
+  stroke: #666;
+  stroke-width: 0.2;
+}
+/* Axis */
+#chart .axis text {
+  font-size: 11px;
+}
+#chart .axis path {
+  stroke: #999;
+  shape-rendering: crispEdges;
+}
+#chart .axis line {
+  stroke: #999;
+  shape-rendering: crispEdges;
+}
+/* Labels */
+#chart .labels text {
+  fill: #333;
+  font-size: 10px;
+  font-weight: 500;
+}
+/* Sidebars */
+#legend {
+  float: left;
+  padding-top: 45px;
+  padding-left: 40px;
+  line-height: 100%;
+}
+h3 {
+  margin-bottom: 5px;
+}
+#info {
+  margin-bottom: 8px;
+}
+#dirf {
+  margin-bottom: 0;
+}
+

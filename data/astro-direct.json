@@ -1,0 +1,31 @@
+[{
+  "total": 67,
+  "data": {
+    "Aries": 7.46, 
+    "Taurus": 10.45, 
+    "Gemini": 4.48, 
+    "Cancer": 7.46, 
+    "Leo": 7.46, 
+    "Virgo": 7.46, 
+    "Libra": 11.94, 
+    "Scorpio": 3.00, 
+    "Sagittarius": 10.45, 
+    "Capricorn": 10.45, 
+    "Aquarius": 10.45, 
+    "Pisces": 9.00 
+  },
+  "raw": {
+    "Aries": 5, 
+    "Taurus": 7, 
+    "Gemini": 3, 
+    "Cancer": 5, 
+    "Leo": 5, 
+    "Virgo": 5, 
+    "Libra": 8, 
+    "Scorpio": 2, 
+    "Saggitarius": 7, 
+    "Capricorn": 7, 
+    "Aquarius": 7, 
+    "Pisces": 6 
+  }
+}]

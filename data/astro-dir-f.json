@@ -1,0 +1,31 @@
+[{
+  "total": 1,
+  "data": {
+    "Aries": 0, 
+    "Taurus": 0, 
+    "Gemini": 0, 
+    "Cancer": 0, 
+    "Leo": 0, 
+    "Virgo": 0, 
+    "Libra": 0, 
+    "Scorpio": 0, 
+    "Sagittarius": 100, 
+    "Capricorn": 0, 
+    "Aquarius": 0, 
+    "Pisces": 0
+  },
+  "raw": {
+    "Aries": 0, 
+    "Taurus": 0, 
+    "Gemini": 0, 
+    "Cancer": 0, 
+    "Leo": 0, 
+    "Virgo": 0, 
+    "Libra": 0, 
+    "Scorpio": 0, 
+    "Saggitarius": 1, 
+    "Capricorn": 0, 
+    "Aquarius": 0, 
+    "Pisces": 0 
+  }
+}]
